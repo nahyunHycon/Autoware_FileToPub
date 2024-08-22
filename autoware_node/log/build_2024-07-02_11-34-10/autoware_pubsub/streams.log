@@ -1,0 +1,41 @@
+[0.340s] Invoking command in '/home/hyconsoft_rnd/autoware_node/autoware_pubsub': PYTHONPATH=/home/hyconsoft_rnd/autoware_node/build/autoware_pubsub/prefix_override:/home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/autoware_pubsub build --build-base /home/hyconsoft_rnd/autoware_node/build/autoware_pubsub/build install --record /home/hyconsoft_rnd/autoware_node/build/autoware_pubsub/install.log --single-version-externally-managed install_data
+[0.468s] running egg_info
+[0.468s] creating ../build/autoware_pubsub/autoware_pubsub.egg-info
+[0.468s] writing ../build/autoware_pubsub/autoware_pubsub.egg-info/PKG-INFO
+[0.469s] writing dependency_links to ../build/autoware_pubsub/autoware_pubsub.egg-info/dependency_links.txt
+[0.469s] writing entry points to ../build/autoware_pubsub/autoware_pubsub.egg-info/entry_points.txt
+[0.469s] writing requirements to ../build/autoware_pubsub/autoware_pubsub.egg-info/requires.txt
+[0.469s] writing top-level names to ../build/autoware_pubsub/autoware_pubsub.egg-info/top_level.txt
+[0.469s] writing manifest file '../build/autoware_pubsub/autoware_pubsub.egg-info/SOURCES.txt'
+[0.470s] reading manifest file '../build/autoware_pubsub/autoware_pubsub.egg-info/SOURCES.txt'
+[0.470s] writing manifest file '../build/autoware_pubsub/autoware_pubsub.egg-info/SOURCES.txt'
+[0.470s] running build
+[0.470s] running build_py
+[0.470s] creating /home/hyconsoft_rnd/autoware_node/build/autoware_pubsub/build
+[0.470s] creating /home/hyconsoft_rnd/autoware_node/build/autoware_pubsub/build/lib
+[0.470s] creating /home/hyconsoft_rnd/autoware_node/build/autoware_pubsub/build/lib/autoware_pubsub
+[0.470s] copying autoware_pubsub/autowaresub.py -> /home/hyconsoft_rnd/autoware_node/build/autoware_pubsub/build/lib/autoware_pubsub
+[0.470s] copying autoware_pubsub/__init__.py -> /home/hyconsoft_rnd/autoware_node/build/autoware_pubsub/build/lib/autoware_pubsub
+[0.470s] copying autoware_pubsub/autowarepub.py -> /home/hyconsoft_rnd/autoware_node/build/autoware_pubsub/build/lib/autoware_pubsub
+[0.470s] running install
+[0.471s] running install_lib
+[0.471s] creating /home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/lib/python3.10/site-packages/autoware_pubsub
+[0.471s] copying /home/hyconsoft_rnd/autoware_node/build/autoware_pubsub/build/lib/autoware_pubsub/autowaresub.py -> /home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/lib/python3.10/site-packages/autoware_pubsub
+[0.471s] copying /home/hyconsoft_rnd/autoware_node/build/autoware_pubsub/build/lib/autoware_pubsub/__init__.py -> /home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/lib/python3.10/site-packages/autoware_pubsub
+[0.471s] copying /home/hyconsoft_rnd/autoware_node/build/autoware_pubsub/build/lib/autoware_pubsub/autowarepub.py -> /home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/lib/python3.10/site-packages/autoware_pubsub
+[0.471s] byte-compiling /home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/lib/python3.10/site-packages/autoware_pubsub/autowaresub.py to autowaresub.cpython-310.pyc
+[0.472s] byte-compiling /home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/lib/python3.10/site-packages/autoware_pubsub/__init__.py to __init__.cpython-310.pyc
+[0.472s] byte-compiling /home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/lib/python3.10/site-packages/autoware_pubsub/autowarepub.py to autowarepub.cpython-310.pyc
+[0.472s] running install_data
+[0.472s] creating /home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/share/ament_index
+[0.472s] creating /home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/share/ament_index/resource_index
+[0.472s] creating /home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/share/ament_index/resource_index/packages
+[0.472s] copying resource/autoware_pubsub -> /home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/share/ament_index/resource_index/packages
+[0.472s] copying package.xml -> /home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/share/autoware_pubsub
+[0.472s] running install_egg_info
+[0.473s] Copying ../build/autoware_pubsub/autoware_pubsub.egg-info to /home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/lib/python3.10/site-packages/autoware_pubsub-0.0.0-py3.10.egg-info
+[0.474s] running install_scripts
+[0.484s] Installing autoware_pub script to /home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/lib/autoware_pubsub
+[0.484s] Installing autoware_sub script to /home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/lib/autoware_pubsub
+[0.484s] writing list of installed files to '/home/hyconsoft_rnd/autoware_node/build/autoware_pubsub/install.log'
+[0.497s] Invoked command in '/home/hyconsoft_rnd/autoware_node/autoware_pubsub' returned '0': PYTHONPATH=/home/hyconsoft_rnd/autoware_node/build/autoware_pubsub/prefix_override:/home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/autoware_pubsub build --build-base /home/hyconsoft_rnd/autoware_node/build/autoware_pubsub/build install --record /home/hyconsoft_rnd/autoware_node/build/autoware_pubsub/install.log --single-version-externally-managed install_data

@@ -1,0 +1,26 @@
+running egg_info
+writing ../build/autoware_pubsub/autoware_pubsub.egg-info/PKG-INFO
+writing dependency_links to ../build/autoware_pubsub/autoware_pubsub.egg-info/dependency_links.txt
+writing entry points to ../build/autoware_pubsub/autoware_pubsub.egg-info/entry_points.txt
+writing requirements to ../build/autoware_pubsub/autoware_pubsub.egg-info/requires.txt
+writing top-level names to ../build/autoware_pubsub/autoware_pubsub.egg-info/top_level.txt
+reading manifest file '../build/autoware_pubsub/autoware_pubsub.egg-info/SOURCES.txt'
+writing manifest file '../build/autoware_pubsub/autoware_pubsub.egg-info/SOURCES.txt'
+running build
+running build_py
+copying autoware_pubsub/autowarepub (copy).py -> /home/hyconsoft_rnd/autoware_node/build/autoware_pubsub/build/lib/autoware_pubsub
+copying autoware_pubsub/autowarepub.py -> /home/hyconsoft_rnd/autoware_node/build/autoware_pubsub/build/lib/autoware_pubsub
+running install
+running install_lib
+copying /home/hyconsoft_rnd/autoware_node/build/autoware_pubsub/build/lib/autoware_pubsub/autowarepub (copy).py -> /home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/lib/python3.10/site-packages/autoware_pubsub
+copying /home/hyconsoft_rnd/autoware_node/build/autoware_pubsub/build/lib/autoware_pubsub/autowarepub.py -> /home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/lib/python3.10/site-packages/autoware_pubsub
+byte-compiling /home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/lib/python3.10/site-packages/autoware_pubsub/autowarepub (copy).py to autowarepub (copy).cpython-310.pyc
+byte-compiling /home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/lib/python3.10/site-packages/autoware_pubsub/autowarepub.py to autowarepub.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/lib/python3.10/site-packages/autoware_pubsub-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/autoware_pubsub/autoware_pubsub.egg-info to /home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/lib/python3.10/site-packages/autoware_pubsub-0.0.0-py3.10.egg-info
+running install_scripts
+Installing pub script to /home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/lib/autoware_pubsub
+Installing sub script to /home/hyconsoft_rnd/autoware_node/install/autoware_pubsub/lib/autoware_pubsub
+writing list of installed files to '/home/hyconsoft_rnd/autoware_node/build/autoware_pubsub/install.log'

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package example;
+
+service DataStreamService {
+  rpc StreamData (StreamRequest) returns (stream StreamResponse);
+}
+
+message StreamRequest {
+  string request_data = 1;
+}
+
+message StreamResponse {
+  string data = 1;
+}

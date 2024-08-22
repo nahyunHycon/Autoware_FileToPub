@@ -1,0 +1,4 @@
+[console_scripts]
+pub = autoware_pubsub.autowarepub:main
+sub = autoware_pubsub.autowaresub:main
+
